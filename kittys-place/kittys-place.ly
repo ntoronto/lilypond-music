@@ -1,8 +1,8 @@
 \include "../common.ly"
 
 \header {
-	composer = "Neil Toronto"
-	meter = "light pedaling"
+	title = "Kitty's Place"
+	meter = "with light pedaling"
 }
 
 upperIntro = {
